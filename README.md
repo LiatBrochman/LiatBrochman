@@ -2,7 +2,7 @@ Hi there, I'm Liat Brochman 👋
 I'm a front-end React developer.
 
 ⚡ What I'm currently working on
-UberEats project [GitHub Repository Link]: food delivery application for customers, couriers, and owners.
+UberEats project [GitHub Repository Link](https://github.com/LiatBrochman/UberEats): food delivery application for customers, couriers, and owners.
 
 🚀 Skills
 JavaScript HTML5 CSS3 NodeJS Bootstrap React.js React Native Redux Context 
