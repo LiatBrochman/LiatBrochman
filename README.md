@@ -1,6 +1,6 @@
 <h2>Hi there, I'm Liat Brochman 👋</h2>
 
-I'm a front-end React developer.
+I'm a Front End developer.
 
 ## 🚀 What I'm currently working on
 
