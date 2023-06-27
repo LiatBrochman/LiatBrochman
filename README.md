@@ -4,7 +4,7 @@ I'm a Front End developer.
 
 ## 🚀 What I'm currently working on
 
-[UberEats project](https://github.com/LiatBrochman/UberEats): food delivery application for customers, couriers and owners.
+[UberEats project](https://github.com/LiatBrochman/UberEats): UbeEats is a highly functional and scalable food delivery app, designed to showcase the skills and expertise of our team. This project mimics the functionalities of popular food delivery services like UberEats and Wolt.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/liat-brochman/) 
