@@ -6,6 +6,14 @@ I'm a Front End developer.
 
 [UberEats project](https://github.com/LiatBrochman/UberEats): UbeEats is a highly functional and scalable food delivery app, designed to showcase the skills and expertise of our team. This project mimics the functionalities of popular food delivery services like UberEats and Wolt.
 
+The UbeEats app is divided into three separate applications, each catering to a distinct user:
+
+🍔 Customer App: Allows users to explore, order, and track meals from local restaurants. It delivers live updates of user location, restaurant details, and dish information.
+
+🚴 Courier App: Ensures seamless deliveries by providing couriers with real-time updates and efficient route planning.
+
+🍽️ Restaurant Manager App: Helps restaurant managers to manage their culinary operations effectively.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/liat-brochman/) 
 
